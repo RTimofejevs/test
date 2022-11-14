@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="initialBorderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.KeepToMyListController">
+   <top>
+      <AnchorPane prefHeight="56.0" style="-fx-background-color: #52438F;" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="14.0" layoutY="12.0" text="KeepToMyList" textFill="WHITE">
+               <font>
+                  <Font name="Californian FB Bold" size="17.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="33.0" fitWidth="34.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../KeepToMyList_App/icons/list-rich-32.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Label>
+         </children></AnchorPane>
+   </top>
+   <left>
+      <AnchorPane style="-fx-background-color: #6F5CC2;" BorderPane.alignment="CENTER">
+         <children>
+            <VBox layoutX="-6.0" layoutY="3.0">
+               <children>
+                  <Button fx:id="userBtn" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#openUser" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="User" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../KeepToMyList_App/icons/user-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+                  <Button fx:id="UsersBtn" alignment="BASELINE_LEFT" graphicTextGap="10.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#openUsers" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="Users" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../KeepToMyList_App/icons/group-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" graphicTextGap="10.0" layoutX="10.0" layoutY="178.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="Mail" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../Icons/message-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+                  <Button fx:id="callendarBtn" alignment="BASELINE_LEFT" graphicTextGap="10.0" layoutX="10.0" layoutY="136.0" mnemonicParsing="false" onAction="#openCalendar" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="Calendar" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../Icons/calendar-5-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" graphicTextGap="10.0" layoutX="10.0" layoutY="94.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="My Notes" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../KeepToMyList_App/icons/text-file-4-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" graphicTextGap="10.0" layoutX="10.0" layoutY="52.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="155.0" stylesheets="@../../../KeepToMyList_App/src/css/application.css" text="Logs" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../KeepToMyList_App/icons/report-2-32.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets bottom="10.0" left="30.0" right="5.0" top="5.0" />
+                     </padding>
+                  </Button>
+               </children>
+            </VBox>
+         </children></AnchorPane>
+   </left>
+   <center>
+      <AnchorPane fx:id="initialPane" prefHeight="466.0" prefWidth="751.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
