@@ -11,3 +11,12 @@ https://github.com/danagow/books/blob/master/Pro%20Spring%205%2C%205th%20Edition
 https://drive.google.com/file/d/1j9YQp7wXjFIEA-kCN5toDUivxJut9_Fd/view?usp=drivesdk (proSpring 5)
 
 https://callofnight.com/manga/call-of-the-night-chapter-1-124/
+
+
+
+
+
+
+Books to Read:
+1. High-Performance Java Persistence Book 
+2. Pro Spring 5
