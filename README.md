@@ -18,5 +18,8 @@ https://callofnight.com/manga/call-of-the-night-chapter-1-124/
 
 
 Books to Read:
-1. High-Performance Java Persistence Book 
-2. Pro Spring 5
+  -High-Performance Java Persistence Book 
+  -Pro Spring 5
+
+Youtube tutorials:
+  -channel:  Thorben Janssen
