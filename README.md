@@ -23,6 +23,7 @@ Books to Read:
   -High-Performance Java Persistence Book 
   -Pro Spring 5
   -Effective Java 3rd Edition
+  -Java SE 8 for Impatient
 
 Youtube tutorials:
   -channel:  Thorben Janssen
