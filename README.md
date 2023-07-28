@@ -24,6 +24,7 @@ Books to Read:
   -Pro Spring 5
   -Effective Java 3rd Edition
   -Java SE 8 for Impatient
+  -Modern Java Recipes (Has Overview on Java 8 / 9 features)
 
 Youtube tutorials:
   -channel:  Thorben Janssen
