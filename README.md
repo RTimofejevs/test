@@ -19,6 +19,7 @@ codewars ""What's nice that stays nice? Crack of course! Drink safely""
 https://drive.google.com/file/d/1qLQT6Z21KOQ6kVAs3nrCRTFjeOHPecNn/view?usp=drivesdk
 https://drive.google.com/file/d/1qkNf0ii30k3y28SSAZS364PPYhO4R4Ba/view?usp=drivesdk
 https://drive.google.com/file/d/1rEYiG2hVqDcQ7dZkmNGpQWuBsy0UIwoE/view?usp=drivesdk
+https://github.com/Lamiiine/Competitive-Programming-1/blob/master/Competitve%20Programming%203%2C%20Steven%20Halim/Competitive_Programming_3.pdf
 
 Books to Read:
   -High-Performance Java Persistence Book 
@@ -26,7 +27,7 @@ Books to Read:
   -Effective Java 3rd Edition
   -Java SE 8 for Impatient
   -Modern Java Recipes (Has Overview on Java 8 / 9 features)
-
+  -Competitive Programming 3 by Steven Halim
 Youtube tutorials:
   -channel:  Thorben Janssen
   -Durga Sir
