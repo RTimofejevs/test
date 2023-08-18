@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1oc3VqzMRjklgzkp5SXfIfT7wSTMZB0DW/view?usp=drive
 
 https://callofnight.com/manga/call-of-the-night-chapter-1-124/
 https://github.com/danagow/books/blob/bf83d95f9c7ec0d8960ae30d700df7f54379b089/Modern%20Java%20Recipes.pdf
-codewars ""What's nice that stays nice? Crack of course! Drink safely""
+-codewars-
 
 https://drive.google.com/file/d/1qLQT6Z21KOQ6kVAs3nrCRTFjeOHPecNn/view?usp=drivesdk
 https://drive.google.com/file/d/1qkNf0ii30k3y28SSAZS364PPYhO4R4Ba/view?usp=drivesdk
@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1rEYiG2hVqDcQ7dZkmNGpQWuBsy0UIwoE/view?usp=drive
 https://github.com/Lamiiine/Competitive-Programming-1/blob/master/Competitve%20Programming%203%2C%20Steven%20Halim/Competitive_Programming_3.pdf
 https://github.com/Rafiquzzaman420/Free-Programming-Books
 https://github.com/mrbajaj/books/blob/master/spring-framework-reference.pdf
+https://github.com/Rafiquzzaman420/Free-Programming-Books/blob/master/Java/Effective%20Java%20-%20Third%20edition.pdf
 
 Books to Read:
   -High-Performance Java Persistence Book 
