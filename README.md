@@ -24,6 +24,7 @@ https://github.com/Rafiquzzaman420/Free-Programming-Books
 https://github.com/mrbajaj/books/blob/master/spring-framework-reference.pdf
 https://github.com/Rafiquzzaman420/Free-Programming-Books/blob/master/Java/Effective%20Java%20-%20Third%20edition.pdf
 https://drive.google.com/file/d/1shhRp7IqqxFKtvLdNlKMpRHB5E1m60tM/view?usp=sharing
+https://drive.google.com/file/d/1WE-5PnTg1yj_P0I8TjQJbnAfhTOhc6S1/view?usp=sharing
 
 Books to Read:
   -High-Performance Java Persistence Book 
