@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1shhRp7IqqxFKtvLdNlKMpRHB5E1m60tM/view?usp=shari
 https://drive.google.com/file/d/1WE-5PnTg1yj_P0I8TjQJbnAfhTOhc6S1/view?usp=sharing
 https://drive.google.com/file/d/1rq2ANCamUgr5cGPNLHrTva-h4qwNiYU1/view?usp=sharing
 
+https://drive.google.com/file/d/1jnm6RqcB0u5eholeL3UwLh6mP8QLpqrm/view?usp=sharing
 Books to Read:
   -High-Performance Java Persistence Book 
   -Pro Spring 5
