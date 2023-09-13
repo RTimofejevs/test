@@ -38,3 +38,7 @@ Books to Read:
 Youtube tutorials:
   -channel:  Thorben Janssen
   -Durga Sir
+
+
+firesign - follow me
+dynazty - the shrouded devil (bonus track)
