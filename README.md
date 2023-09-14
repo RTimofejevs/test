@@ -42,3 +42,4 @@ Youtube tutorials:
 
 firesign - follow me
 dynazty - the shrouded devil (bonus track)
+Dark Gathering 
