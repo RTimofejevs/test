@@ -29,6 +29,7 @@ https://drive.google.com/file/d/1rq2ANCamUgr5cGPNLHrTva-h4qwNiYU1/view?usp=shari
 
 https://drive.google.com/file/d/1jnm6RqcB0u5eholeL3UwLh6mP8QLpqrm/view?usp=sharing
 https://github.com/yamoo9/WPS_JavaScript.jQuery/blob/master/BOOKS/Web%20Design%20With%20Html%20CSS%20-%20Jon%20Duckett,%202014.pdf
+https://drive.google.com/file/d/1Svn9Z5dvVKl7YADy3JzwlpHX5HBI0AkY/view?usp=sharing
 Books to Read:
   -High-Performance Java Persistence Book 
   -Pro Spring 5
