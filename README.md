@@ -46,3 +46,4 @@ firesign - follow me
 dynazty - the shrouded devil (bonus track)
 Dark Gathering 
 Corpse Party Cemetery 0 
+Burlington Throat Factory  (DIgbar)
